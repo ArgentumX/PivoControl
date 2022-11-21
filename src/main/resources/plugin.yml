@@ -1,0 +1,5 @@
+name: PivoControl
+version: '${project.version}'
+main: com.comissar.pivocontrol.PivoControl
+api-version: 1.19
+authors: [ Comissar ]
